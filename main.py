@@ -1,1 +1,3 @@
-print('хуй')
+def gay():
+  print('хуй')
+gay()
